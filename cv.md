@@ -1,4 +1,5 @@
 # Kurtikova Olga
+![Фото](/CV.jpg)
 
 ## Contact
 E-mail: kurtikova.ov@gmail.com  
