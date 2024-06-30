@@ -3,7 +3,8 @@
 ## Contact
 E-mail: kurtikova.ov@gmail.com  
 GitHub: [olyavitall](https://github.com/olyavitall)  
-Telegram: [olyavita](https://t.me/olyavita)  
+Telegram: [olyavita](https://t.me/olyavita)
+Discord:   
 
 ## About
 I live my way from a doctor to a developer.
@@ -26,3 +27,9 @@ console.log(x+y);
 ```
 ## Experience
 * [CV](https://github.com/olyavitall/rsschool-cv.git)
+
+## Education
+* 2024 - current, RS School JavaScript/Front-end course
+* 2022-2024 Ryazan State Medical University named after academician I.P. Pavlov, **Cardiologist**
+* 2020-2022 Ryazan State Medical University named after academician I.P. Pavlov, **Translator in the Field of Professional Communication**
+* 2016-2022 Ryazan State Medical University named after academician I.P. Pavlov, **Medical Doctor**
