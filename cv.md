@@ -17,3 +17,10 @@ I believe that a sincere desire for development and interest in this area will l
 * JavaScript (heard of it, never used it)
 * Figma (basic)
 
+## Code
+***JavaScript***
+```javascript
+let x = 10;
+let y = 2;
+console.log(x+y);
+```
