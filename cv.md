@@ -3,8 +3,8 @@
 ## Contact
 E-mail: kurtikova.ov@gmail.com  
 GitHub: [olyavitall](https://github.com/olyavitall)  
-Telegram: [olyavita](https://t.me/olyavita)
-Discord:   
+Telegram: [olyavita](https://t.me/olyavita)  
+Discord:[olyavitall](https://discord.com/1254828059178307674)
 
 ## About
 I live my way from a doctor to a developer.
