@@ -12,3 +12,8 @@ After working in medicine for some time, I realized that I was most attracted to
 
 I believe that a sincere desire for development and interest in this area will lead me to a result.
 
+## Skills
+* HTML, CSS (basic)
+* JavaScript (heard of it, never used it)
+* Figma (basic)
+
