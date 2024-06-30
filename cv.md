@@ -33,3 +33,7 @@ console.log(x+y);
 * 2022-2024 Ryazan State Medical University named after academician I.P. Pavlov, **Cardiologist**
 * 2020-2022 Ryazan State Medical University named after academician I.P. Pavlov, **Translator in the Field of Professional Communication**
 * 2016-2022 Ryazan State Medical University named after academician I.P. Pavlov, **Medical Doctor**
+
+## Languages
+* Russian - native
+* English - B1-B2
