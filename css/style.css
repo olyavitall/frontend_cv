@@ -152,7 +152,7 @@ padding-left: 30px;
     left: 0px;
     width: 24px;
     height: 24px;
-    background-image: url(/assets/icons/email.svg);
+    background-image: url(../assets/icons/email.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -163,7 +163,7 @@ padding-left: 30px;
     left: 0px;
     width: 24px;
     height: 24px;
-    background-image: url(/assets/icons/git.svg);
+    background-image: url(../assets/icons/git.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -174,7 +174,7 @@ padding-left: 30px;
     left: 0px;
     width: 24px;
     height: 24px;
-    background-image: url(/assets/icons/telegram.svg);
+    background-image: url(../assets/icons/telegram.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -185,7 +185,7 @@ padding-left: 30px;
     left: 0px;
     width: 24px;
     height: 24px;
-    background-image: url(/assets/icons/dis.svg);
+    background-image: url(../assets/icons/dis.svg);
     background-size: contain;
     background-repeat: no-repeat;
 }
