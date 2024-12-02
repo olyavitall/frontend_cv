@@ -1,2 +1,2 @@
-# rsschool-cv  
-https://olyavitall.github.io/rsschool-cv/
+# frontend-cv  
+https://olyavitall.github.io/frontend_cv/
